@@ -128,7 +128,7 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'brooth/far.vim'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
-Plug 'valloric/youcompleteme'
+" ug 'valloric/youcompleteme'
 Plug 'majutsushi/tagbar'
 Plug 'vasconcelloslf/vim-interestingwords'
 Plug 'sbdchd/neoformat'
